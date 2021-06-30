@@ -1,9 +1,9 @@
 This is a simple project web and api automation using cypress. There is 3 example in this project:
-1. Data validation, can be accessed in the folder `cypress/test/no1`
+1. Data validation, can be accessed in the folder `cypress/test/no1` <br/>
    Validate data between two arrays in folder `cypress/fixtures`
-3. Web automation test, can be accessed in the folder `cypress/test/no2`
+3. Web automation test, can be accessed in the folder `cypress/test/no2` <br/>
    For automation using cypress, we can simply locating element by text or xpath's element that canbe found from inspect element in browser
-5. API automation test, can be accessed in the folder `cypress/test/no3`
+5. API automation test, can be accessed in the folder `cypress/test/no3` <br />
    this api automation uses dummy data from https://reqres.in/
 
 <br/>
