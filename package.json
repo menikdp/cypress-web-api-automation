@@ -1,0 +1,18 @@
+{
+  "name": "cypress-web-api-automation",
+  "version": "1.0.0",
+  "description": "web and api automation using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cypress open"
+  },
+  "author": "@menikdp",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.6.0"
+  },
+  "dependencies": {
+    "chai-json-schema": "^1.5.1",
+    "cypress-xpath": "^1.6.2"
+  }
+}

@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "username": "Smith",
+      "source_bank": "BCA",
+      "destination_bank": "BRI",
+      "amount": 1000000
+    },
+    {
+      "id": 100,
+      "username": "John",
+      "source_bank": "BRI",
+      "destination_bank": "BCA",
+      "amount": null
+    },
+    {
+      "id": 101,
+      "username": "Fulan",
+      "source_bank": "MANDIRI",
+      "destination_bank": "BCA",
+      "amount": 4000000
+    },
+    {
+      "id": 110,
+      "username": "Bambang",
+      "source_bank": "BNI",
+      "destination_bank": "BSI",
+      "amount": 3000000
+    },
+    {
+      "id": 111,
+      "username": "Sri",
+      "source_bank": "BCA",
+      "destination_bank": "BSI",
+      "amount": 1500000
+    }
+  ]
